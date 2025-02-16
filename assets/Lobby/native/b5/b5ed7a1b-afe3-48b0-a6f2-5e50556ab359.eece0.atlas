@@ -1,0 +1,181 @@
+
+Sicbo_web38.png
+size: 1145,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 0, 9
+  size: 264, 417
+  orig: 264, 417
+  offset: 0, 0
+  index: -1
+FB
+  rotate: false
+  xy: 374, 25
+  size: 90, 98
+  orig: 106, 106
+  offset: 10, 3
+  index: -1
+FB2
+  rotate: false
+  xy: 1063, 338
+  size: 82, 88
+  orig: 106, 106
+  offset: 14, 12
+  index: -1
+FB3
+  rotate: false
+  xy: 995, 0
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 467, 37
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 1063, 254
+  size: 63, 81
+  orig: 67, 82
+  offset: 2, 1
+  index: -1
+Layer 12
+  rotate: false
+  xy: 267, 29
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 579, 6
+  size: 168, 90
+  orig: 168, 90
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 374, 126
+  size: 186, 89
+  orig: 186, 90
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 267, 90
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 1058, 37
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 1115, 218
+  size: 26, 33
+  orig: 27, 34
+  offset: 1, 0
+  index: -1
+Layer 30
+  rotate: false
+  xy: 1115, 192
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 908, 40
+  size: 63, 56
+  orig: 65, 56
+  offset: 2, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 995, 117
+  size: 142, 66
+  orig: 142, 66
+  offset: 0, 0
+  index: -1
+Levels 2
+  rotate: false
+  xy: 580, 99
+  size: 207, 120
+  orig: 207, 120
+  offset: 0, 0
+  index: -1
+Levels 6
+  rotate: false
+  xy: 796, 253
+  size: 264, 173
+  orig: 269, 177
+  offset: 3, 2
+  index: -1
+Levels7
+  rotate: false
+  xy: 267, 218
+  size: 310, 208
+  orig: 311, 208
+  offset: 1, 0
+  index: -1
+MD5
+  rotate: false
+  xy: 1058, 2
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+Snowfall1
+  rotate: false
+  xy: 862, 32
+  size: 43, 64
+  orig: 62, 77
+  offset: 11, 7
+  index: -1
+Snowfl
+  rotate: false
+  xy: 267, 4
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+X88
+  rotate: false
+  xy: 750, 12
+  size: 109, 84
+  orig: 116, 89
+  offset: 4, 2
+  index: -1
+as
+  rotate: false
+  xy: 580, 222
+  size: 213, 204
+  orig: 240, 240
+  offset: 10, 16
+  index: -1
+lighday
+  rotate: false
+  xy: 796, 99
+  size: 196, 151
+  orig: 196, 151
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 995, 186
+  size: 117, 64
+  orig: 121, 65
+  offset: 1, 0
+  index: -1
